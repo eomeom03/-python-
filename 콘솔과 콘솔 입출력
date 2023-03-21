@@ -1,0 +1,9 @@
+data = input()
+print(data)
+data = input('숫자를 1개 입력해주세요: ')
+print(data)
+float_a = 2.5
+int_b = 100
+char_c = 'c'
+string_d = 'Hello hufs'
+print(float_a, int_b, char_c, string_d)
